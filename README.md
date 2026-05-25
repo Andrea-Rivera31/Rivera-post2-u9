@@ -2,12 +2,15 @@
 
 Este repositorio contiene la implementación práctica de soluciones en ensamblador x86 (arquitectura de 16 bits en modo real) para la manipulación avanzada de la Entrada y Salida (E/S) mediante la interceptación de la línea de hardware **IRQ1** (teclado), la programación del **PIC 8259A** y el encadenamiento de interrupciones (*Interrupt Chaining*).
 
-## Información del Proyecto
+## Información del Estudiante
+* **Nombre:** Andrea Valentina Rivera Fernández
+* **Código:** 1152444
 * **Institución:** Universidad Francisco de Paula Santander (UFPS)
-* **Programa:** Ingeniería de Sistemas 
+* **Carrera:** Ingeniería de Sistemas
 * **Materia:** Arquitectura de Computadores
-* *Entorno de Desarrollo:** macOS (Host) -> DOSBox 0.74+ con NASM 2.x (Emulado)
-
+* **Unidad:** 9 - Post-Contenido 2
+* **Entorno de Desarrollo:** macOS (Host) -> DOSBox 0.74+ con NASM 2.x (Emulado)
+* **Año:** 2026
 ---
 
 ## Prerrequisitos y Configuración en macOS
