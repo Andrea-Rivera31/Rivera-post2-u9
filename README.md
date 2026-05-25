@@ -3,10 +3,10 @@
 Este repositorio contiene la implementación práctica de soluciones en ensamblador x86 (arquitectura de 16 bits en modo real) para la manipulación avanzada de la Entrada y Salida (E/S) mediante la interceptación de la línea de hardware **IRQ1** (teclado), la programación del **PIC 8259A** y el encadenamiento de interrupciones (*Interrupt Chaining*).
 
 ## Información del Proyecto
-* [cite_start]**Institución:** Universidad Francisco de Paula Santander (UFPS)
-* [cite_start]**Programa:** Ingeniería de Sistemas 
-* [cite_start]**Materia:** Arquitectura de Computadores
-* [cite_start]**Entorno de Desarrollo:** macOS (Host) -> DOSBox 0.74+ con NASM 2.x (Emulado)
+* **Institución:** Universidad Francisco de Paula Santander (UFPS)
+* **Programa:** Ingeniería de Sistemas 
+* **Materia:** Arquitectura de Computadores
+* *Entorno de Desarrollo:** macOS (Host) -> DOSBox 0.74+ con NASM 2.x (Emulado)
 
 ---
 
